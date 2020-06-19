@@ -1,6 +1,6 @@
 # Bee-Counting
 
-Data of my Master Thesis Project "A computer vision based alogrithm to count bees"
+Scripts and pipeline config files of my master thesis "A computer vision based alogrithm to count bees"
 
 
 
